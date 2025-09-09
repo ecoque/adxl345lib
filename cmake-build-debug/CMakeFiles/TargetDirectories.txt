@@ -1,0 +1,3 @@
+C:/Users/kerim/STM32CubeIDE/workspace_1.16.1/Adxl345.lib/cmake-build-debug/CMakeFiles/Adxl345.lib.elf.dir
+C:/Users/kerim/STM32CubeIDE/workspace_1.16.1/Adxl345.lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kerim/STM32CubeIDE/workspace_1.16.1/Adxl345.lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir

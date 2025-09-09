@@ -1,0 +1,22 @@
+# ninja log v6
+55	301	7791466968679357	CMakeFiles/Adxl345.lib.elf.dir/Core/Src/sysmem.c.obj	fb343538efe41297
+79	336	7791466968924527	CMakeFiles/Adxl345.lib.elf.dir/Core/Startup/startup_stm32f446retx.s.obj	42f00e7b65ed7d2b
+6	392	7791466968191718	CMakeFiles/Adxl345.lib.elf.dir/Core/Src/main.c.obj	a58eb81c5956a770
+22	422	7791466968355603	CMakeFiles/Adxl345.lib.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj	8e02dceb889abd15
+66	456	7791466968801537	CMakeFiles/Adxl345.lib.elf.dir/Core/Src/system_stm32f4xx.c.obj	ca574fa2d6f9e5af
+33	498	7791466968460390	CMakeFiles/Adxl345.lib.elf.dir/Core/Src/stm32f4xx_it.c.obj	267b090967f3f1d9
+94	525	7791466969075573	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	b4de7750e8274373
+117	528	7791466969303572	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	1659ed081f6d471a
+45	532	7791466968591190	CMakeFiles/Adxl345.lib.elf.dir/Core/Src/syscalls.c.obj	3d8246a0a3e2e60f
+160	573	7791466969741555	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	7949b301cf0312dd
+205	576	7791466970177339	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	1bfb0829f762c2ee
+182	601	7791466969958094	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	c10efaef9046084c
+230	622	7791466970437045	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	e9ab5c2f034cf453
+303	640	7791466971169827	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	7eabfca10a004122
+265	652	7791466970790807	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	9c9fad60a92c7be8
+336	691	7791466971500459	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	d2807026e5f229be
+393	712	7791466972061882	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	63aaf7d3609887fa
+423	736	7791466972359884	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	40d85fccd28c08d8
+456	803	7791466972702819	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	1f5dc141f0766d04
+499	849	7791466973123344	CMakeFiles/Adxl345.lib.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	bf77415b0a0af45a
+849	1157	7791466976623535	Adxl345.lib.elf	622c380d040ab81
