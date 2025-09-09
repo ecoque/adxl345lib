@@ -21,6 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "adxl345.h"
 
 /* USER CODE END Includes */
 
@@ -98,10 +99,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-    sayi_x=5;
-    sayi_x=sayi_x*2;
-    sayi_x=3;
-    sayi_x=4;
+
 
   }
   /* USER CODE END 3 */
