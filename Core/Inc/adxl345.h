@@ -6,6 +6,8 @@
 #define ADXL345_H
 #include "main.h"
 
+
+#define ADXL345_DEVICE_ADDRESS 0xA6
 #define DEVID                  0x00
 #define THRESH_TAP             0x1D
 #define OFSX                   0x1E
@@ -37,8 +39,14 @@
 #define FIFO_CTL               0x38
 #define FIFO_STATUS            0x39
 
+typedef enum {
+    READ_FAIL=0,
+    READ_SUCCESS=1,
+}ADXL345ReadStatus;
 
-
+int Adxl345_ScanDeviceID();
+void Adxl345_Init(void);
+void Adxl345_ReadRegisterData(uint16_t registerAddress,uint16_t sizeofData,uint8_t *DataBuffer);
 
 
 
